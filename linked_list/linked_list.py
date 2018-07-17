@@ -43,6 +43,7 @@ class LinkedList:
         self.head = old_head.next_node
       else:
         self.head = None
+        self.tail = None
       return old_head.value
 
 
