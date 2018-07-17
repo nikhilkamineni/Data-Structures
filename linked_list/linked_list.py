@@ -57,6 +57,11 @@ class LinkedList:
 
     return False
 
+<<<<<<< HEAD
+=======
+  def contains(self, value):
+    pass
+>>>>>>> 009b2189bcd2902a3392c78c3c876c416c8f8f5f
 
   def get_max(self):
     if self.head is not None:
